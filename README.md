@@ -42,6 +42,7 @@ Contains transaction-level data including:
 3)people – Salesperson details including name and profile image
 4)calendar – Date attributes (month, weekday, start of month) enabling time-based analysis
 5)This design supports flexible slicing by product, region, salesperson, and time.
+![Dashboard Preview](https://https://github.com/manojnadakuduru/ChocolateFactorySales/blob/main/DataModel.png)
 
 ### 5.	Features / Highlights
 Business Problem
