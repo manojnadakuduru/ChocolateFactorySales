@@ -10,10 +10,15 @@ The Chocolate Factory Sales Dashboard provides a consolidated view of sales and 
 
 ### 3.	Tech Stack
 The dashboard was built using the following tools and technologies:
+
 • 📊 Power BI Desktop – Primary platform for building interactive visuals and dashboards
+
 • 📂 Power Query – Data cleaning, transformation, and preparation
+
 • 🧠 DAX (Data Analysis Expressions) – Used for KPI calculations, YoY comparisons, and profit metrics
+
 • 🧱 Data Modeling – Fact and dimension tables structured to enable cross-filtering and drill-downs
+
 • 📁 File Format – .pbix for development and .png for dashboard previews
 
 ### 4.	Data Source & Data Model
