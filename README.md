@@ -92,5 +92,5 @@ Shipment distribution analysis supports logistics planning and workload balancin
 • Scalable BI Architecture
 Star schema design ensures the model is extensible for future data sources and advanced analytics.
 
-### 6.	Screenshots / Demos
-![Dashboard Preview]((https://github.com/manojnadakuduru/ChocolateFactorySales/blob/main/Chocolate_Factory_Sales.png))
+### 6.	Screenshot
+![Dashboard Preview](https://github.com/manojnadakuduru/ChocolateFactorySales/blob/main/Chocolate_Factory_Sales.png)
