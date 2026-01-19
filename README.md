@@ -1,5 +1,5 @@
 # Chocolate Factory Sales
-## Recommended Structure and Order
+
 ### 1.	Project Title / Headline
 🍫 Chocolate Analytics: Chocolate Factory Sales Insights Dashboard
 An interactive Power BI dashboard designed to analyze end-to-end chocolate sales performance, focusing on revenue, profitability, shipment patterns, product performance, geographic distribution, and salesperson contribution.
