@@ -1,8 +1,6 @@
 # Chocolate Factory Sales
 ## Recommended Structure and Order
 ### 1.	Project Title / Headline
-A concise, descriptive name for the dashboard.
-Example: 
 🍫 Chocolate Analytics: Chocolate Factory Sales Insights Dashboard
 An interactive Power BI dashboard designed to analyze end-to-end chocolate sales performance, focusing on revenue, profitability, shipment patterns, product performance, geographic distribution, and salesperson contribution.
 
@@ -11,9 +9,6 @@ The Chocolate Factory Sales Dashboard provides a consolidated view of sales and 
 
 
 ### 3.	Tech Stack
-List the key technologies used to build the dashboard.
-
-Example:
 The dashboard was built using the following tools and technologies:
 • 📊 Power BI Desktop – Primary platform for building interactive visuals and dashboards
 • 📂 Power Query – Data cleaning, transformation, and preparation
@@ -22,7 +17,6 @@ The dashboard was built using the following tools and technologies:
 • 📁 File Format – .pbix for development and .png for dashboard previews
 
 ### 4.	Data Source & Data Model
-More info on where the data comes from and how it’s structured
 Source: Simulated chocolate factory sales dataset
 The data represents end-to-end chocolate sales operations, including shipment-level transactions, product attributes, geographic regions, salesperson information, and a dedicated calendar table for time intelligence analysis.
 The dataset is structured to support analytical reporting, KPI tracking, and year-over-year comparisons.
@@ -32,17 +26,17 @@ The dashboard follows a star schema design, with a central fact table and multip
 
 **• Fact Table – shipments**
 Contains transaction-level data including:
-Sales amount and cost
-Boxes shipped (including binned distributions)
-Order status and shipment date
-Foreign keys linking to product, location, salesperson, and calendar dimensions
+1)Sales amount and cost
+2)Boxes shipped (including binned distributions)
+3)Order status and shipment date
+4)Foreign keys linking to product, location, salesperson, and calendar dimensions
 
 **• Dimension Tables**
-products – Product details such as product name, category, and cost per box
-locations – Geographic attributes including region and country
-people – Salesperson details including name and profile image
-calendar – Date attributes (month, weekday, start of month) enabling time-based analysis
-This design supports flexible slicing by product, region, salesperson, and time.
+1)products – Product details such as product name, category, and cost per box
+2)locations – Geographic attributes including region and country
+3)people – Salesperson details including name and profile image
+4)calendar – Date attributes (month, weekday, start of month) enabling time-based analysis
+5)This design supports flexible slicing by product, region, salesperson, and time.
 
 ### 5.	Features / Highlights
 Business Problem
