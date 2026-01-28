@@ -1,4 +1,4 @@
-# Chocolate Factory Sales
+# Chocolate Factory Sales Power BI Dashboard
 
 ### 1.	Project Title
 🍫 Chocolate Analytics: Chocolate Factory Sales Insights Dashboard
